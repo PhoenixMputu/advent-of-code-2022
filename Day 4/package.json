@@ -1,0 +1,19 @@
+{
+    "name": "day-4",
+    "version": "1.0.0",
+    "description": "One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "advence-of-code",
+      "advence-of-code-2022",
+      "aoc",
+      "advence-of-code-2022-day-4",
+      "advence-of-code-day-4",
+      "Rucksack-Reorganization"
+    ],
+    "author": "Victory Deo",
+    "license": "ISC"
+  }
