@@ -1,4 +1,4 @@
-# Advence-of-code-2022
+# Advent-of-code-2022
 
 ![](https://repository-images.githubusercontent.com/112706767/160be980-3b1a-11eb-9dbe-439a40adfa99)
 
